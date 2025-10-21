@@ -1,0 +1,10 @@
+Task,Status,Start,End,Critical
+Site Survey & Permits,Completed,2024-01-15,2024-02-15,True
+Excavation & Site Prep,Completed,2024-02-15,2024-03-15,True
+Foundation Pour,Completed,2024-03-15,2024-04-30,True
+Structural Steel Erection,Completed,2024-04-30,2024-06-15,True
+Concrete Deck Pour,Completed,2024-06-15,2024-07-30,True
+Exterior Envelope,In Progress,2024-07-30,2024-09-30,True
+MEP Rough-in,In Progress,2024-08-15,2024-10-30,True
+Interior Framing,Not Started,2024-10-30,2024-12-15,True
+Final Inspections,Not Started,2024-12-15,2024-12-20,True
